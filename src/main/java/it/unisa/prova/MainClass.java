@@ -1,5 +1,9 @@
 package it.unisa.prova;
 
+/**
+ * A comment
+ */
+
 public class MainClass {
 
 	public static void main(String[] args) {
